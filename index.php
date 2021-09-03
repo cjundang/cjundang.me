@@ -24,11 +24,11 @@
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation"><span class="navbar-toggler-icon"></span></button>
             <div class="collapse navbar-collapse" id="navbarSupportedContent">
                 <ul class="navbar-nav">
-                    <li class="nav-item"><a class="nav-link js-scroll-trigger" href="index.html#about">About</a></li>
-                    <li class="nav-item"><a class="nav-link js-scroll-trigger" href="index.html#experience">Experience</a></li>
-                    <li class="nav-item"><a class="nav-link js-scroll-trigger" href="index.html#education">Education</a></li>
-                    <li class="nav-item"><a class="nav-link js-scroll-trigger" href="index.html#skills">Skill</a></li>
-                    <li class="nav-item"><a class="nav-link js-scroll-trigger" href="index.html#certification">Certification</a></li>
+                    <li class="nav-item"><a class="nav-link js-scroll-trigger" href="index.php#about">About</a></li>
+                    <li class="nav-item"><a class="nav-link js-scroll-trigger" href="index.php#experience">Experience</a></li>
+                    <li class="nav-item"><a class="nav-link js-scroll-trigger" href="index.php#education">Education</a></li>
+                    <li class="nav-item"><a class="nav-link js-scroll-trigger" href="index.php#skills">Skill</a></li>
+                    <li class="nav-item"><a class="nav-link js-scroll-trigger" href="index.php#certification">Certification</a></li>
                 </ul>
             </div>
         </nav>
